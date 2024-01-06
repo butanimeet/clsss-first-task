@@ -1,0 +1,65 @@
+
+
+
+body{
+    background-color: rgb(6, 6, 65);
+}
+
+table,tr,td{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+table,tr,td {
+    
+    background-color: rgb(6, 6, 65);
+    color: white;
+    
+    
+    
+    
+
+
+}
+
+h1,h4{
+
+    color: white;
+}
+
+th,td{
+
+    border-bottom: 1px solid #ddd;
+}
+
+th,td{
+
+    width: 180px;
+    height: 50px;
+}
+
+.a {
+    color: red;
+}
+
+th {
+
+    color: blue;
+    text-align: left
+
+}
+
+table {
+
+    text-align: ;
+
+}
+
+td:hover  {
+    background-color: gray;
+
+}
+ 
+ 
