@@ -22,10 +22,13 @@ body {
     background-color: blue;
 }
 
-#div {
+#div4 {
 
-    width: 75%;
+    width: 50%;
     height: 50px;
     background-color: blue;
     float: right;
+    display: block;
+    height: 25px;
+    display: grid;
 }

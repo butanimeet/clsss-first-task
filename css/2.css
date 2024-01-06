@@ -9,6 +9,7 @@ table,tr,td{
     margin: 0;
     padding: 0;
     list-style-type: none;
+    width: 100%;
 }
 
 
@@ -62,4 +63,13 @@ td:hover  {
 
 }
  
+ .tr,p,th,td {
+    text-align: center;
+ }
+
+ .side {
+    margin: 20px;
+ }
+
  
+

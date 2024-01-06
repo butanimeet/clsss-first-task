@@ -4,8 +4,15 @@ body{
 
 .photo{
     text-align: center;
-    rotate: 55deg;
+    rotate: -55deg;
     
     
 }
 
+#a {
+    float: right;
+}
+
+#b {
+    float: inline-start;
+}
