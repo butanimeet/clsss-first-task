@@ -58,7 +58,7 @@ table {
 
 }
 
-td:hover  {
+tr,td:hover  {
     background-color: gray;
 
 }
